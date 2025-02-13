@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": "bo6",
+      "name": "Black Ops 6",
+      "brandColors": {
+        "primary": "#f96800"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IMG_0263.png",
+      "isDefault": true
+    },
+    {
+      "id": "fortnite",
+      "name": "Fortnite",
+      "brandColors": {
+        "primary": "#13cae3"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/fortnite.png",
+      "isDefault": true
+    },
+    {
+      "id": "valorant",
+      "name": "Valorant",
+      "brandColors": {
+        "primary": "#ff4655"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/valorant.png",
+      "isDefault": true
+    },
+    {
+      "id": "fivem",
+      "name": "FiveM",
+      "brandColors": {
+        "primary": "#ff7100"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Fivem.png",
+      "isDefault": true
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "brandColors": {
+        "primary": "#808080"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+  ]
+}
