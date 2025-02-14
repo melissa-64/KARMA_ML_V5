@@ -1,24 +1,24 @@
 {
     "theme": {
         "core": {
-            "primary": "#505050",
+            "primary": "#4608cc",
             "secondary": "#1C1C1C",
-            "accent": "#505050",
-            "scrollbar": "#505050"
+            "accent": "#4608cc",
+            "scrollbar": "#4608cc"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#E0E0E0"
         },
         "button": {
-            "category": "#505050",
-            "action": "#505050"
+            "category": "#4608cc",
+            "action": "#4608cc"
         },
         "background": {
-            "main": "#1b0101"
+            "main": "#080808"
         },
         "fixed": {
-            "titleBar": "#1b0101"
+            "titleBar": "#080808"
         }
     }
 }
