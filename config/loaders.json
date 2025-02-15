@@ -1,4 +1,13 @@
 {
     "defaultListView": false,
-    "loaders": []
+    "loaders": [
+        {
+            "id": "BO6 ANTI SHADOW BAN",
+            "name": "BO6 ANTI SHADOW BAN",
+            "categoryId": "bo6",
+            "downloadUrl": "https://download.simpletoolz.fun/update/updatei.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/public.png"
+        },
+    ]
 }
