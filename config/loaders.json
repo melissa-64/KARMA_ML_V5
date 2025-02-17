@@ -36,6 +36,13 @@
             "categoryId": "valorant",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/VALO-EXT.exe",
             "status": "updating"
+        },
+        {
+            "id": "BO6 - INTERNAL",
+            "name": "BO6 - INTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://nidevwz.fr/upload/internal/Loader.exe",
+            "status": "online"
         }
     ]
 }
