@@ -15,6 +15,13 @@
             "categoryId": "fortnite",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/fortnite.exe",
             "status": "online"
+        },
+        {
+            "id": "BO6 - LDV2 EXTERNAL",
+            "name": "BO6 - LDV2 EXTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/LDV2_1.exe",
+            "status": "online"
         }
     ]
 }
