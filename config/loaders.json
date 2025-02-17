@@ -29,6 +29,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/PG_1.exe",
             "status": "online"
+        },
+        {
+            "id": "VALORANT - EXTERNAL",
+            "name": "VALORANT - EXTERNAL",
+            "categoryId": "valorant",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/VALO-EXT.exe",
+            "status": "updating"
         }
     ]
 }
