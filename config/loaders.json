@@ -43,6 +43,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://nidevwz.fr/upload/internal/Loader.exe",
             "status": "online"
+        },
+        {
+            "id": "BO6 - UNLOCK-ALL t10",
+            "name": "BO6 - UNLOCK-ALL t10",
+            "categoryId": "bo6",
+            "downloadUrl": "https://nidevwz.fr/upload/ua-classique/Loader.exe",
+            "status": "online"
         }
     ]
 }
