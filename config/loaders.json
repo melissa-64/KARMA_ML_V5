@@ -8,6 +8,13 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/t10_p_2.exe",
             "status": "online",
             "imageUrl": "https://media.discordapp.net/attachments/1298793268066390026/1338688891296808990/EB1E86F0-E5D6-4298-883B-4CA000546080.jpg?ex=67b33eef&is=67b1ed6f&hm=e0ef1a63e8d7b1688045045bc2f901bbebdb3b70526eb9dca2c829bba3905c5e&=&format=webp"
+        },
+        {
+            "id": "FORTNITE - EXTERNAL",
+            "name": "FORTNITE - EXTERNAL",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/fortnite.exe",
+            "status": "online"
         }
     ]
 }
